@@ -1,0 +1,21 @@
+void akasha(){
+
+int d = 70;
+int p1 = d;
+int p2 = p1+d;
+int p3 = p2+d;
+int p4 = p3+d;
+
+//background(0);
+translate(140, 0);
+
+// Draw gray box
+stroke(153);
+//line(p3, p3, p2, p3);
+//line(p2, p3, p2, p2);
+//line(p2, p2, p3, p2);
+//line(p3, p2, p3, p3);
+
+line(0, 10, 70*3, 70*2);
+
+}
