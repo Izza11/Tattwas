@@ -3,7 +3,7 @@
 Tattwas is a meditation app developed in Processing and Processing Android that allows the mind to reflect on elemental forces of nature presented by shapes. I extended the application by adding more shapes and patterns to create interesting combinations that seem relieving to the mind. Check video on the right.
 
 
-# How to works?
+# How it works?
 
 Pressing 'w' stores the coordinates of current shapes.
 
